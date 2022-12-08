@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r2FeEalAgpS6jEKOyVFCJdbu7pzLZEj7gw1Iybyrvs4SkU/OGbnkF9yqIFvqoaNvHzi+lxqGOIbQimo9qCf0Qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yanzhai.nie\\Desktop\\VS Projs\\WpfLearning\\WpfToupcamLearning\\WpfToupcamLearning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yanzhai.nie\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512",
+    "C:\\Users\\yanzhai.nie\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\yanzhai.nie\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

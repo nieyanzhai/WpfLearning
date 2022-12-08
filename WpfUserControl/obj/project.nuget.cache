@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aeudgCXAdZkOpE5n6i5caonSJS9S8q50mLDwOrM/iJ0/DAi1aIILIf22nEzljRdzVhTy/DN0+XtgkWK/6DuzpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yanzhai.nie\\Desktop\\VS Projs\\WpfLearning\\WpfUserControl\\WpfUserControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yanzhai.nie\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512",
+    "C:\\Users\\yanzhai.nie\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

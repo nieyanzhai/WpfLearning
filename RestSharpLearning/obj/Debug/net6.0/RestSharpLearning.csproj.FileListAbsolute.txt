@@ -1,0 +1,17 @@
+C:\Users\yanzhai.nie\Desktop\VS Projs\WpfLearning\RestSharpLearning\obj\Debug\net6.0\RestSharpLearning.csproj.AssemblyReference.cache
+C:\Users\yanzhai.nie\Desktop\VS Projs\WpfLearning\RestSharpLearning\obj\Debug\net6.0\RestSharpLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanzhai.nie\Desktop\VS Projs\WpfLearning\RestSharpLearning\obj\Debug\net6.0\RestSharpLearning.AssemblyInfoInputs.cache
+C:\Users\yanzhai.nie\Desktop\VS Projs\WpfLearning\RestSharpLearning\obj\Debug\net6.0\RestSharpLearning.AssemblyInfo.cs
+C:\Users\yanzhai.nie\Desktop\VS Projs\WpfLearning\RestSharpLearning\obj\Debug\net6.0\RestSharpLearning.csproj.CoreCompileInputs.cache
+C:\Users\yanzhai.nie\Desktop\VS Projs\WpfLearning\RestSharpLearning\bin\Debug\net6.0\RestSharpLearning.exe
+C:\Users\yanzhai.nie\Desktop\VS Projs\WpfLearning\RestSharpLearning\bin\Debug\net6.0\RestSharpLearning.deps.json
+C:\Users\yanzhai.nie\Desktop\VS Projs\WpfLearning\RestSharpLearning\bin\Debug\net6.0\RestSharpLearning.runtimeconfig.json
+C:\Users\yanzhai.nie\Desktop\VS Projs\WpfLearning\RestSharpLearning\bin\Debug\net6.0\RestSharpLearning.dll
+C:\Users\yanzhai.nie\Desktop\VS Projs\WpfLearning\RestSharpLearning\bin\Debug\net6.0\RestSharpLearning.pdb
+C:\Users\yanzhai.nie\Desktop\VS Projs\WpfLearning\RestSharpLearning\bin\Debug\net6.0\RestSharp.dll
+C:\Users\yanzhai.nie\Desktop\VS Projs\WpfLearning\RestSharpLearning\obj\Debug\net6.0\RestSharpLearning.csproj.CopyComplete
+C:\Users\yanzhai.nie\Desktop\VS Projs\WpfLearning\RestSharpLearning\obj\Debug\net6.0\RestSharpLearning.dll
+C:\Users\yanzhai.nie\Desktop\VS Projs\WpfLearning\RestSharpLearning\obj\Debug\net6.0\refint\RestSharpLearning.dll
+C:\Users\yanzhai.nie\Desktop\VS Projs\WpfLearning\RestSharpLearning\obj\Debug\net6.0\RestSharpLearning.pdb
+C:\Users\yanzhai.nie\Desktop\VS Projs\WpfLearning\RestSharpLearning\obj\Debug\net6.0\RestSharpLearning.genruntimeconfig.cache
+C:\Users\yanzhai.nie\Desktop\VS Projs\WpfLearning\RestSharpLearning\obj\Debug\net6.0\ref\RestSharpLearning.dll

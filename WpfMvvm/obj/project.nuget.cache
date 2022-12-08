@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eb6KLGrAcRaMw4oIrNJpfiCjO+Mb+aob4pBi37c5/TxsYlHEBt9+KAa8FwjJpK3s5hZxrOJLeGZx4Dlx1ODFWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yanzhai.nie\\Desktop\\VS Projs\\WpfLearning\\WpfMvvm\\WpfMvvm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yanzhai.nie\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

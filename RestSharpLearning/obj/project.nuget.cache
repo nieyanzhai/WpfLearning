@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ixMtM4wkXeBp70OUnbzpJskRB8yk4Ic2eSWh7Bzg1+HDBH5kgyDARFWKC9YcwyQQjh6BYbzB1T09XEX7fQ2MDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yanzhai.nie\\Desktop\\VS Projs\\WpfLearning\\RestSharpLearning\\RestSharpLearning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yanzhai.nie\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
